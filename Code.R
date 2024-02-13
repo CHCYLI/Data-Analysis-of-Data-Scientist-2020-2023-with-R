@@ -2,7 +2,7 @@ jobs <- read.csv("jobs_in_data.csv")
 head(jobs)
 ncol(jobs)
 
-print("Names of columns of this dataset")
+print("Names of columns of this dataset") 
 colnames(jobs)
 
 
